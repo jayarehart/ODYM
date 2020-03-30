@@ -1,3 +1,3 @@
-from .modules import ODYM_Classes.py as msc
-from .modules import ODYM_Functions.py as msf
-from .modules import dynamic_stock_model.py as dsm
+from .ODYM_Classes import ODYM_Classes
+from .ODYM_Functions import ODYM_Functions
+from .dynamic_stock_model import DynamicStockModel
