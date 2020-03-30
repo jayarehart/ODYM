@@ -2,7 +2,7 @@
 import os
 from setuptools import setup
 
-# packages = []
+packages = []
 # root_dir = os.path.dirname(__file__)
 # if root_dir:
 #     os.chdir(root_dir)
